@@ -15,4 +15,6 @@ To create a search engine, follow these steps:
 - Run unix sort on a linux terminal: sort -k 1,1 -k 2,2n -o ./sortedPostings.txt ./rawPostings.txt
 - Uncomment the portion of the code in the main function of Program.cpp about consolidating the raw postings and comment the rest of the code in the main function.
 
+To run the search engine, uncomment the portion of the code in the main function of Program.cpp about starting the search engine and comment the rest of the code in the function. The search engine takes about a minute to start. 
+
 Details of the structure of the inverted index and how it was implemented are written in the pdf
