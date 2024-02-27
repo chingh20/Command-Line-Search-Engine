@@ -1,4 +1,5 @@
 **Search Engine**
+![image](https://github.com/chingh20/Search-Engine/assets/69393414/66d5ebbe-08b7-4c2b-a72c-a2fb04d026f0)
 
 Created a commandline search engine based on TREC-Deep-Learning-2020 dataset.
 
